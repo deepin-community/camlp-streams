@@ -1,0 +1,2 @@
+version=4
+https://github.com/ocaml/camlp-streams/tags .*/v?([\d\.]+)\.tar\.gz
